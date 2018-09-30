@@ -1,9 +1,10 @@
 {
   "name": "errors-messages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modulo de Mensagens de erros para investimento",
-  "main": "./",
-  "author": "Carlos E Panarello <carlospanarello-at-gmail.com>",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",  
+  "author": "Carlos E Panarello <carlospanarello@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git+https://gitlab.intranet.bb.com.br/infra3/poupanca-api.git"
